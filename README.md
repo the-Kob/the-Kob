@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/the-Kob"></a>
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=the-Kob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" height="170em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-Kob&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" height="170em" width="405em" src="https://github-readme-stats.vercel.app/api?username=the-Kob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-Kob&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline-block"><br>
