@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/the-Kob"></a>
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=the-Kob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br>
+  <p></p>
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-Kob&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
