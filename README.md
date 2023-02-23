@@ -1,5 +1,5 @@
 ## Hey, I'm Kob
-- 👨🏻‍🎓 3rd year Computer Science student at NOVA School of Science and Technology
+- 👨🏻‍🎓 Master's student in Computer Science @ Instituto Superior Técnico w/ a focus on AI and GAMES
 - 🎮 aspiring game dev
 
 <div align="center">
